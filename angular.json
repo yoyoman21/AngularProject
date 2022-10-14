@@ -84,7 +84,7 @@
             "main": "src/test.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.spec.json",
-            "karmaConfig": "karma.conf.js",
+            "karmaConfig": "karma.conform.controls.js",
             "assets": [
               "src/favicon.ico",
               "src/assets"
@@ -97,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "5f018332-adc5-4e20-a581-3f911e8b2417"
   }
 }

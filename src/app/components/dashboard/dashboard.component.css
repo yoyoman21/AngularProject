@@ -1,0 +1,7 @@
+.bg-img{
+    background-image: url("G:\ANGULAR NTTPROJECT\QUESTIONNARE\src\assets\quiz.webp");
+    /* background-position-y: bottom;
+    background-position-x: inherit;   */
+     background-repeat: no-repeat;
+    background-size: auto;
+  }
